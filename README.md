@@ -16,18 +16,18 @@ To present and ensure the viability of this project to our investors, couple que
 
 - Find proportions of short terms customers to annuals subscribers as well as genders of active riders.
 
-
+![](Resources/User_and_gender_breakdown.PNG)
 
 Looking at the User Breakdown, we analyse that ~80% are the annual subscriber, and the ~20% left are one time customers, ~75% of total users are Male.<br>
 We can also inspect that we have ~3 times more Male subscriber than Female. On another hand we are missing information about the Gender for the customer part.
 We could then conclude that bike sharing is more use by Male subscriber's.<br>
 
 - What is the average trip duration.
-
+![](Resources/Checkout_time.PNG)
 Looking over these graphs indicate that the average trip duration is ~5 minutes for all kind of users, the output is similar when we investigate by genders (~5 min for Male/ ~6 min for Female).
 <br>
 - Analyse of Trips by weekday allow us more insights.
-
+![](Resources/Peak_hours.PNG)
 At a glance, we study that during the week-end(Saturday/Sunday), trips are more condensed between 9am to 6pm.<br>
 During the week-day(Monday through Friday), we have two distinct peak hours:
   - One in the morning 7am to 9am.
@@ -35,9 +35,9 @@ During the week-day(Monday through Friday), we have two distinct peak hours:
 Bikes are used all week long, based on the hours to go and come back from work during week-day, and to enjoy outdoor activities on the week-end.
 
 Analyse of trips by weekday per genders inform us that Male are the one using bike sharing the most on similar hours as the previous heat-map.    
-
+![](Resources/Trips_by_gender.PNG)
 The bigger user are Male and subscriber and doing trips during week-day more particularly on Thursday and Friday.
-
+![](Resources/User_trips_by_gender.PNG)
 
 
 # Summary:
