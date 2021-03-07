@@ -27,6 +27,8 @@ We could then conclude that bike sharing is more use by Male subscriber's.<br>
   <br>
 Looking over these graphs indicate that the average trip duration is ~5 minutes for all kind of users, the output is similar when we investigate by genders (~5 min for Male/ ~6 min for Female).
 <br>
+  
+
 - Analyse of Trips by weekday allow us more insights.
 
 ![](Resources/Peak_hours.PNG)
@@ -39,9 +41,14 @@ Bikes are used all week long, based on the hours to go and come back from work d
 
 Analyse of trips by weekday per genders inform us that Male are the one using bike sharing the most on similar hours as the previous heat-map.    
 ![](Resources/Trips_by_gender.PNG)
-The bigger user are Male and subscriber and doing trips during week-day more particularly on Thursday and Friday.
 ![](Resources/User_trips_by_gender.PNG)
 
+The category with the most user is  Male and subscriber using bike sharing during week-day more particularly on Thursday and Friday.
+
+- Analyse of bike utilization and repairs need.
+![](Resources/Bike_repairs.PNG)
+
+We can pinpoint which bikes are more use than other and in function known which one are going to need repairs, we can also filter this graph by bike ID to do a more specific research on a particular bike.
 
 # Summary:
 
@@ -57,7 +64,7 @@ At the light of this metrics research, couple conclusions can be drawn:
 <br>
 Business recommendations:
 
-- Knowing that most user are Male let a window open for development to attract more Female into bike sharing.
+- Knowing that most user are Male let a window open for development to attract more Female into bike sharing(have some bike more adapted to Female can definitively help it).
 - There is more user during the evening 4pm to 7pm on week-day, implanting bike stations around residential area could help boost the utilization for user to go to work in the morning with a bike as well. 
 - There is user during the week-end but not as much as during the week-day peak hours, an only week-end subscribe policy might boost utilization during week-end. 
  
@@ -65,7 +72,6 @@ Business recommendations:
 Some other visualizations for future analysis can be added to give more insights to our investors:
   
 - Starting investment: how mush cost a bike and how many we will need to have enough during peak hours.
-- A graph showing the bike utilization as well as it's need for repair for each bike_id.
 - An analysis of the difference user time checkout between week-day and week-end.
 - An analysis to showcase if the user on week-day are the same or different one than week-end.
 
