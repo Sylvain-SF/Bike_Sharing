@@ -24,10 +24,13 @@ We could then conclude that bike sharing is more use by Male subscriber's.<br>
 
 - What is the average trip duration.
 ![](Resources/Checkout_time.PNG)
+  <br>
 Looking over these graphs indicate that the average trip duration is ~5 minutes for all kind of users, the output is similar when we investigate by genders (~5 min for Male/ ~6 min for Female).
 <br>
 - Analyse of Trips by weekday allow us more insights.
+
 ![](Resources/Peak_hours.PNG)
+<br>
 At a glance, we study that during the week-end(Saturday/Sunday), trips are more condensed between 9am to 6pm.<br>
 During the week-day(Monday through Friday), we have two distinct peak hours:
   - One in the morning 7am to 9am.
@@ -48,13 +51,23 @@ At the light of this metrics research, couple conclusions can be drawn:
 
 - User are more subscriber than one time customer.
 - Trip duration average is ~5 minutes.  
-- Most part of user are Male, letting a window open for development to attract more Female into bike sharing.
-- Most of the trips activity are during week-day more particularly in the evening for work's transportation purpose. Implanting bike stations around residential area could help boost the utilization for user to go to work in the morning with a bike as well and promoting use during the week-end.
+- Most part of user are Male.
+- Most of the trips activity are during week-day more particularly in the evening for work's transportation purpose. 
+
 <br>
+Business recommendations:
+
+- Knowing that most user are Male let a window open for development to attract more Female into bike sharing.
+- There is more user during the evening 4pm to 7pm on week-day, implanting bike stations around residential area could help boost the utilization for user to go to work in the morning with a bike as well. 
+- There is user during the week-end but not as much as during the week-day peak hours, an only week-end subscribe policy might boost utilization during week-end. 
+ 
+
 Some other visualizations for future analysis can be added to give more insights to our investors:
+  
 - Starting investment: how mush cost a bike and how many we will need to have enough during peak hours.
 - A graph showing the bike utilization as well as it's need for repair for each bike_id.
 - An analysis of the difference user time checkout between week-day and week-end.
+- An analysis to showcase if the user on week-day are the same or different one than week-end.
 
 ### Link to tableau public:
 [link to dashboard](https://public.tableau.com/profile/sylvain.sf#!/vizhome/Citi_Bike_Challenge_16149951350100/Des-Moinesbike-sharingProject_?publish=yes)
