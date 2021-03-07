@@ -12,11 +12,11 @@ To present and ensure the viability of this project to our investors, couple que
 <br>
 - Get an idea of the number of trips we could expect on a summer month. NYC had for August 2019, a count of 2.344.224 bike trips. That represented ~25% of the total population, and indicated that we could expect the same in Des-Moines. 
 <br>
-![](Resources/Numbers_of_trips.PNG)
+![image](Resources/Numbers_of_trips.PNG)
 <br>
 - Find proportions of short terms customers to annuals subscribers as well as genders of active riders.
 <br>
-![](Resources/User_and_gender_breakdown.PNG)
+![image](Resources/User_and_gender_breakdown.PNG)
 <br>
 Looking at the User Breakdown, we analyse that ~80% are the annual subscriber, and the ~20% left are one time customers, ~75% of total users are Male.<br>
 We can also inspect that we have ~3 time more Male subscriber than Female. On another hand we are missing information about the Gender for the customer.
